@@ -5,3 +5,4 @@ console.log("Welcome to JavaScript !");
 console.log(accoutId);
 console.log(accountHolderName);
 console.log(accountHolderAddress);
+console.table([accountHolderAddress,accountHolderName,accoutId]);
